@@ -2,10 +2,16 @@ RCG isolated-instance pack — runtime 1.8.0 / UMC harness 1.1.0
 
 (C) Copyright 2026 RUSSELL PHILIP SMITHSON
 
-This product is licensed under the Apache License, Version 2.0.
+Current repository-level first-party work is licensed under the GNU General
+Public License, version 3 only (GPL-3.0-only).
 See the accompanying LICENSE file for the full license text.
 
 This distribution may include or reference third-party components that remain
 subject to their respective licenses and attribution requirements. Existing
 third-party notices supplied with the product should be retained with any
 redistribution.
+
+Licensing update: 2026-10-05. Separately licensed third-party components and
+historical ZIP distributions retain their existing licenses and notices.
+The former root Apache license is retained at licenses/Apache-2.0-legacy.txt.
+Earlier license grants are not represented as revoked.

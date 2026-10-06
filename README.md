@@ -58,4 +58,18 @@ Structured documentation and operator guidance
 
 Version: 1.8.0
 Copyright: © RUSSELL PHILIP SMITHSON
-License: Apache License, Version 2.0
+License: GNU General Public License, version 3 only (GPL-3.0-only). See LICENSE.
+
+## Licensing update and archived distribution
+
+The current repository-level first-party work is licensed under GNU GPL version 3
+only (SPDX: GPL-3.0-only), as of 2026-10-05. See [LICENSE](LICENSE) and
+[RCG NOTICE](RCG%20NOTICE). The former root Apache license is preserved unchanged
+at [licenses/Apache-2.0-legacy.txt](licenses/Apache-2.0-legacy.txt) for historical
+reference, not as the current project-level license declaration.
+
+The existing rcg-isolated-go-1.8.0.zip is retained byte-for-byte, including its
+internal licenses, notices, manifests and checksums. This repository-level update
+does not repackage that historical release, relicense third-party components,
+or purport to revoke licenses already granted for earlier copies. Consult the
+notices inside the archive for the archived distribution.
